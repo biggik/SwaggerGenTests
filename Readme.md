@@ -31,7 +31,7 @@ The validator has three rules for each of the three properties on the class:
 </code>
 
 ### The resulting spec
-![Swagger spec](Images\SwaggerSpec.png "Swagger spec")
+![Swagger spec](Images/SwaggerSpec.png "Swagger spec")
 
 #### [CityValidator](/SwaggerGenTests/Validators/CityValidator.cs)
 
